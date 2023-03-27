@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-this patch is for sublime V4
+this patch is for Sublime V4
 """
 
 import sys
