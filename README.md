@@ -1,2 +1,2 @@
 # SublPatcher
-this script for cracking sublime V4 unlimited access
+this simple script for cracking sublime V4 unlimited access
