@@ -7,7 +7,7 @@ this patch is for Sublime V4 Build 4143
 import sys
 import os
 if len(sys.argv) < 2:
-    print("Usage: ./sublpatcher.py <path-to-file>")
+    print("Usage: ./sublpatcher.py <path-to-sublime-executable>")
     exit(1)
 
 input_file = sys.argv[1]
