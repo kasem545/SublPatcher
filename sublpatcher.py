@@ -34,5 +34,5 @@ with open(output_file, 'wb') as f:
     f.write(data)
 os.chmod(output_file, 0o755)
 
-print(f"[+] sending {output_file} to its main directory")
+print(f"[+] sending {output_file} to its parent directory")
 os.rename(output_file, input_file)
